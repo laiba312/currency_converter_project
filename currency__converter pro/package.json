@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@hookform/error-message": "^2.0.1",
+    "@types/react": "^18.2.53",
+    "@types/react-dom": "^18.2.18",
+    "console": "^0.7.2",
+    "inquirer": "^8.2.6",
+    "prompt-sync": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "name": "typecript_45_question_as",
+  "version": "1.0.0",
+  "main": "currency_converter.js",
+  "scripts": {
+    "start": "node q46.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
